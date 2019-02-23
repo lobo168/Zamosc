@@ -1,14 +1,14 @@
 <resources>
-    <string name="app_name">The City</string>
+    <string name="app_name">Zamość Info</string>
 
-    <string name="city_name">Bandung</string>
-    <string name="city_address">Jawa Barat, Indonesia</string>
+    <string name="city_name">Zamość</string>
+    <string name="city_address">woj. Lubelskie, Polska</string>
     <string name="about_text">App display Interesting spot at City</string>
 
     <!--=== DATA FOR ADMOB ===================================================================== -->
     <string name="publisher_id">pub-3239677......</string>
     <string name="privacy_policy_url">
-        http://dream-space.web.id/doc...
+        http://kusy825.linuxpl.info/privacy_policy.html
     </string>
     <!--Replace with your own interstitial ad unit id. -->
     <string name="interstitial_ad_unit_id">ca-app-pub-3239677920600357/3800624160</string>
@@ -24,27 +24,27 @@
     <!--=== Nav Drawer Menu Items ============================================================== -->
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="title_nav_all">All Places</string>
-    <string name="title_nav_fav">Favorites</string>
-    <string name="title_nav_news">News Info</string>
+    <string name="title_nav_all">Wszystkie miejsca</string>
+    <string name="title_nav_fav">Ulubione</string>
+    <string name="title_nav_news">Informacje</string>
 
-    <string name="title_nav_featured">Featured Places</string>
-    <string name="title_nav_tour">Tourist Destination</string>
-    <string name="title_nav_food">Food \u0026 Drink</string>
-    <string name="title_nav_hotels">Hotels</string>
-    <string name="title_nav_ent">Entertainment</string>
+    <string name="title_nav_featured">Wyróżnione miejsca</string>
+    <string name="title_nav_tour">Warto zobaczyć</string>
+    <string name="title_nav_food">Gastronomia</string>
+    <string name="title_nav_hotels">Hotele i noclegi</string>
+    <string name="title_nav_ent">Kultura i rozrywka</string>
     <string name="title_nav_sport">Sport</string>
-    <string name="title_nav_shop">Shopping</string>
-    <string name="title_nav_transport">Transportation</string>
-    <string name="title_nav_religion">Religion</string>
-    <string name="title_nav_public">Public Services</string>
-    <string name="title_nav_money">Money</string>
+    <string name="title_nav_shop">Zakupy</string>
+    <string name="title_nav_transport">Komunikacja</string>
+    <string name="title_nav_religion">Kościoły i synagogi</string>
+    <string name="title_nav_public">Urzędy</string>
+    <string name="title_nav_money">Banki i bankomaty</string>
 
     <!--=== activity FullScreenImage =========================================================== -->
     <string name="image_of">%1$d of %2$d</string>
 
     <!--=== activity Main ====================================================================== -->
-    <string name="press_again_exit_app">Press again to exit</string>
+    <string name="press_again_exit_app">Kliknij jeszcze raz żeby wyjść</string>
 
     <!--=== activity Maps ====================================================================== -->
     <string name="no_item_at">No Item at</string>
@@ -54,19 +54,19 @@
     <string name="activity_title_maps">@string/title_nav_all</string>
 
     <!--=== activity PlaceDetails ============================================================== -->
-    <string name="add_favorite">added to favorites</string>
-    <string name="remove_favorite">remove from favorites</string>
-    <string name="no_phone_number">do not have a phone</string>
-    <string name="no_website">do not have a website</string>
+    <string name="add_favorite">dodaj do ulubionych</string>
+    <string name="remove_favorite">usuń z ulubionych</string>
+    <string name="no_phone_number">brak numeru telefonu</string>
+    <string name="no_website">brak strony www</string>
     <string name="fail_dial_number">Cannot dial phone number</string>
     <string name="fail_open_website">Cannot open website</string>
     <string name="unable_create_map">Sorry! unable to create maps</string>
     <string name="failed_load_details">Failed load place details</string>
     <string name="photos_title">Photos</string>
     <string name="description_title">Description</string>
-    <string name="map_title">Map</string>
-    <string name="map_view">VIEW</string>
-    <string name="map_navigate">NAVIGATE</string>
+    <string name="map_title">Mapa</string>
+    <string name="map_view">WIDOK</string>
+    <string name="map_navigate">NAWIGUJ</string>
 
     <!--=== activity Search ==================================================================== -->
     <string name="hint_search">Search Place...</string>
