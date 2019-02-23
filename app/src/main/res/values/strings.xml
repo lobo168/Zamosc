@@ -76,14 +76,14 @@
     <string name="default_notification_channel_id">Default</string>
     <string name="developer_name">TD Project</string>
     <string name="copyright">Copyright © 2019 TDProject.pl. \nAll prawa zastrzeżone</string>
-    <string name="pref_category_notif">Powiadomienia</string>
-    <string name="pref_category_display">Wyświetl</string>
-    <string name="pref_category_other">Inne</string>
+    <string name="pref_category_notif">Powiadomienia:</string>
+    <string name="pref_category_display">Wyświetlanie:</string>
+    <string name="pref_category_other">Inne:</string>
 
     <string name="pref_title_notif">Powiadomienia PUSH</string>
     <string name="pref_title_ringtone">Dźwięki</string>
-    <string name="pref_title_vibrate">Vibracje</string>
-    <string name="pref_title_cache">Clear Image Cache</string>
+    <string name="pref_title_vibrate">Wibracje</string>
+    <string name="pref_title_cache">Usuń zdjęcia z pamięci podręcznej</string>
     <string name="pref_title_theme">Kolor szablonu</string>
     <string name="pref_title_rate">Oceń aplikację</string>
     <string name="pref_title_about">Informacje</string>
@@ -101,9 +101,9 @@
     <string name="dialog_about_title">O aplikacji</string>
     <string name="activity_title_settings">Ustawienia</string>
 
-    <string name="message_clear_image_cache">Are you sure want to clear image cache?</string>
-    <string name="message_after_clear_image_cache">Image cache successfully clear</string>
-    <string name="title_dialog_theme">Color Theme</string>
+    <string name="message_clear_image_cache">Jesteś pewny, że chcesz usunąć zdjęcia z pamieci podręcznej?</string>
+    <string name="message_after_clear_image_cache">Zdjęcia zostały usunięte z pamięci podręcznej</string>
+    <string name="title_dialog_theme">Wybierz kolor</string>
     <string name="grant_permission_account_storage">Grant account, storage permission to enable</string>
     <string name="content_term">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dolor risus, aliquet a erat quis, viverra molestie orci. Suspendisse vehicula porta libero. Nam tincidunt nulla ipsum, vel iaculis risus scelerisque sed. Phasellus venenatis, enim vel placerat blandit, leo eros bibendum erat, at auctor mauris diam ac risus. Aenean sit amet congue neque, sit amet condimentum elit. Fusce lacinia massa vel nisl scelerisque, in scelerisque dolor elementum. Vivamus leo enim, congue dictum congue vitae, porttitor id purus. Sed eu ultricies erat. Morbi hendrerit, mi ac volutpat commodo, magna turpis pretium nibh, at fringilla eros lorem quis tellus. Praesent porttitor purus nibh, ac vestibulum massa fringilla vel. Pellentesque dapibus nulla quis luctus dictum. In scelerisque ut ex sed facilisis. Nunc eu finibus nulla, ut hendrerit sem. Suspendisse accumsan risus vel diam fringilla iaculis.
@@ -114,7 +114,7 @@
 
 
     <!--=== activity Splash ==================================================================== -->
-    <string name="splash_welcome_text">WELCOME</string>
+    <string name="splash_welcome_text">Witaj w Zamościu</string>
     <string name="splash_desc_text">Browse all the interesting place using The City app</string>
 
     <!--=== fragment Category ================================================================== -->
@@ -124,7 +124,7 @@
 
 
     <!-- ==================== OTHERS STRING ==================================================== -->
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Ustawienia</string>
     <string name="no_internet">"No internet connection"</string>
     <string name="task_running">Task still running</string>
     <string name="no_item">No Item</string>
