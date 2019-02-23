@@ -3,6 +3,10 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
 
+    lintOptions {
+        abortOnError false
+    }
+
     defaultConfig {
         applicationId "com.app.thecity"
         minSdkVersion 23
