@@ -7,7 +7,7 @@ public class Constant {
      */
 
     // Edit WEB_URL with your url. Make sure you have backslash('/') in the end url
-    public static String WEB_URL = "http://kusy825.linuxpl.info";
+    public static String WEB_URL = "http://kusy825.linuxpl.info/";
 
     // for map zoom
     public static final double city_lat = 50.717369;
