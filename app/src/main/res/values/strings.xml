@@ -26,7 +26,7 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="title_nav_all">Wszystkie miejsca</string>
     <string name="title_nav_fav">Ulubione</string>
-    <string name="title_nav_news">Informacje</string>
+    <string name="title_nav_news">Info z regionu</string>
 
     <string name="title_nav_featured">Wyróżnione miejsca</string>
     <string name="title_nav_tour">Warto zobaczyć</string>
@@ -62,34 +62,34 @@
     <string name="fail_open_website">Cannot open website</string>
     <string name="unable_create_map">Sorry! unable to create maps</string>
     <string name="failed_load_details">Failed load place details</string>
-    <string name="photos_title">Photos</string>
-    <string name="description_title">Description</string>
+    <string name="photos_title">Zdjęcia</string>
+    <string name="description_title">Opis</string>
     <string name="map_title">Mapa</string>
-    <string name="map_view">WIDOK</string>
+    <string name="map_view">POKAŻ</string>
     <string name="map_navigate">NAWIGUJ</string>
 
     <!--=== activity Search ==================================================================== -->
-    <string name="hint_search">Search Place...</string>
-    <string name="please_fill">Please fill search input</string>
+    <string name="hint_search">Szukaj miejsca...</string>
+    <string name="please_fill">Wpisz coś</string>
 
     <!--=== activity Setting =================================================================== -->
     <string name="default_notification_channel_id">Default</string>
-    <string name="developer_name">Dream Space</string>
-    <string name="copyright">Copyright © 2016 Dream Space. \nAll right reserved</string>
-    <string name="pref_category_notif">Notifications</string>
-    <string name="pref_category_display">Display</string>
-    <string name="pref_category_other">Others</string>
+    <string name="developer_name">TD Project</string>
+    <string name="copyright">Copyright © 2019 TDProject.pl. \nAll prawa zastrzeżone</string>
+    <string name="pref_category_notif">Powiadomienia</string>
+    <string name="pref_category_display">Wyświetl</string>
+    <string name="pref_category_other">Inne</string>
 
-    <string name="pref_title_notif">Push Notifications</string>
-    <string name="pref_title_ringtone">Ringtone</string>
-    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="pref_title_notif">Powiadomienia PUSH</string>
+    <string name="pref_title_ringtone">Dźwięki</string>
+    <string name="pref_title_vibrate">Vibracje</string>
     <string name="pref_title_cache">Clear Image Cache</string>
-    <string name="pref_title_theme">Theme Color</string>
-    <string name="pref_title_rate">Rate</string>
-    <string name="pref_title_about">About</string>
+    <string name="pref_title_theme">Kolor szablonu</string>
+    <string name="pref_title_rate">Oceń aplikację</string>
+    <string name="pref_title_about">Informacje</string>
     <string name="pref_ringtone_silent">Silent</string>
     <string name="pref_title_copyright">Copyright</string>
-    <string name="pref_title_dev_name">Developed By</string>
+    <string name="pref_title_dev_name">Zrobione przez</string>
     <string name="pref_title_term">Term &amp; Policies</string>
 
     <string name="pref_key_notif">key_notifications</string>
@@ -97,9 +97,9 @@
     <string name="pref_key_vibrate">key_vibrate</string>
     <string name="pref_key_reset_cache">key_reset_cache</string>
     <string name="pref_key_theme">key_theme</string>
-    <string name="dialog_confirm_title">Confirmation</string>
-    <string name="dialog_about_title">About</string>
-    <string name="activity_title_settings">Settings</string>
+    <string name="dialog_confirm_title">Potwierdzenie</string>
+    <string name="dialog_about_title">O aplikacji</string>
+    <string name="activity_title_settings">Ustawienia</string>
 
     <string name="message_clear_image_cache">Are you sure want to clear image cache?</string>
     <string name="message_after_clear_image_cache">Image cache successfully clear</string>
