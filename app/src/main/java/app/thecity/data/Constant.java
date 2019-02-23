@@ -10,8 +10,8 @@ public class Constant {
     public static String WEB_URL = "http://kusy825.linuxpl.info";
 
     // for map zoom
-    public static final double city_lat = -6.9174639;
-    public static final double city_lng = 107.6191228;
+    public static final double city_lat = 50.717369;
+    public static final double city_lng = 23.252760;
 
     /**
      * ------------------- DON'T EDIT THIS ---------------------------------------------------------
