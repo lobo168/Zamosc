@@ -31,25 +31,39 @@
         </activity>
         <activity
             android:name=".ActivityMain"
-            android:label="@string/app_name" />
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".ActivitySetting"
             android:label="@string/activity_title_settings"
-            android:theme="@style/AppThemeSetting" />
+            android:theme="@style/AppThemeSetting"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".ActivityMaps"
-            android:label="@string/activity_title_maps" />
+            android:label="@string/activity_title_maps"
+            android:screenOrientation="portrait" />
 
-        <activity android:name=".ActivityPlaceDetail" />
-        <activity android:name=".ActivityFullScreenImage" />
-        <activity android:name=".ActivitySearch" />
-        <activity android:name=".ActivityNewsInfo" />
-        <activity android:name=".ActivityNewsInfoDetails" />
+        <activity
+            android:name=".ActivityPlaceDetail"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ActivityFullScreenImage"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ActivitySearch"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ActivityNewsInfo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ActivityNewsInfoDetails"
+            android:screenOrientation="portrait" />
 
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-            android:theme="@android:style/Theme.Translucent" />
+            android:theme="@android:style/Theme.Translucent"
+            android:screenOrientation="portrait" />
 
         <!-- This meta-data tag is required to use Google Play Services. -->
         <meta-data

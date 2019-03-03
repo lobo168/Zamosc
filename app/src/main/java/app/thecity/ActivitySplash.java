@@ -1,6 +1,7 @@
 package app.thecity;
 
 import android.content.Intent;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
@@ -23,10 +24,11 @@ public class ActivitySplash extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
         parent_view = findViewById(R.id.parent_view);
+        Drawable background = getDrawable(R.drawable.splash_icon_);
 
         sharedPref = new SharedPref(this);
         Tools.initImageLoader(getApplicationContext());
-        parent_view.setBackgroundColor(sharedPref.getThemeColorInt());
+        parent_view.setBackground(background);
 
         // permission checker for android M or higher
         if (Tools.needRequestPermission()) {
